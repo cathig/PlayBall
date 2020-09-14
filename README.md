@@ -6,6 +6,8 @@ Toss the ball to the dog. The dog will catch it if you throw where the dog will 
 
 NOTE: This is not yet a working version. You can click Play and move the bear up and down. But the dog is still pretty shy of the bear and will cower in the bottom right corner. It's a very friendly bear--yet still it's a bear. We are working on acclamating and training the dog.
 
+Bug #2: The bear can't throw the ball, yet. One problem at a time, thank you!
+
 
 ## Image Sources
 
